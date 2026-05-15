@@ -6,6 +6,6 @@
 <footer class="text-center mt-4">
   <hr>
   <p class="mb-1">Dosen Pengampu: Pak Nasrul, S.Kom., M.Kom.</p>
-  <p class="mb-1">Nama: [Nama Kamu] | NIM: [NIM Kamu] | Prodi: [Nama Program Studi]</p>
+  <p class="mb-1">Nama: AZI SYAHRIJAL | NIM: 0110225128 | Prodi: TEKNIK INFORMATIKA</p>
   <small class="text-muted">© 2026 STT Terpadu Nurul Fikri</small>
 </footer>
